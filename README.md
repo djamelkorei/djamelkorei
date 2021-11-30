@@ -21,6 +21,6 @@ I'm a Full Stack developer who also has a passion for web design. A good concept
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djamel-kr&show_icons=true&&count_private=true&include_all_commits=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamel-kr&show_icons=true&layout=compact&langs_count=8&hide=php,blade,html&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=djamel-kr&show_icons=true&&count_private=true&include_all_commits=true&theme=midnight-purple&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamel-kr&show_icons=true&layout=compact&langs_count=8&hide=php,blade,html&theme=midnight-purple"/>
 </p>
