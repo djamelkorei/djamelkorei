@@ -13,7 +13,7 @@ I'm a Full Stack developer who also has a passion for web design. A good concept
 - 👨🏻‍💻 I’m currently working on something cool.
 - 🚀 I’m currently learning new tech.
 - 📝 I regulary write articles on my [Blog](https://dev.djamelkorei.me).
-- 📫 How to reach me: djamel.korei@gmail.com.
+- 📫 How to reach me: djamel.eddine.korei@gmail.com.
 
 </br>
 
