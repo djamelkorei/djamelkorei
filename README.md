@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://djamelkorei.me" target="_blank">Djamel Eddine Korei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Hi there, I'm <a href="https://djamelkorei.com" target="_blank">Djamel Eddine Korei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 [![Website Badge](https://img.shields.io/badge/-Porfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://djamelkorei.me)
 [![Twitter Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Hashnode&logoColor=white)](https://dev.djamelkorei.me)
