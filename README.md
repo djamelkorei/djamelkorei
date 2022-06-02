@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="https://djamelkorei.com" target="_blank">Djamel Eddine Korei</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-[![Website Badge](https://img.shields.io/badge/-Porfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://djamelkorei.me)
-[![Twitter Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Hashnode&logoColor=white)](https://dev.djamelkorei.me)
+[![Website Badge](https://img.shields.io/badge/-Porfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://djamelkorei.com)
+[![Twitter Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Hashnode&logoColor=white)](https://dev.djamelkorei.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/djamel-korei)
 [![Twitter Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://twitter.com/djamel_korei)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/djamel_korei)
