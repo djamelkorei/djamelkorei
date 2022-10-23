@@ -2,9 +2,6 @@
 
 [![Website Badge](https://img.shields.io/badge/-Porfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://djamelkorei.com)
 [![Twitter Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Hashnode&logoColor=white)](https://dev.djamelkorei.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/djamel-korei)
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://twitter.com/djamel_korei)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/djamel_korei)
 
 
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Hands on of a variety of programming languages, software design, databases and software architecture.
