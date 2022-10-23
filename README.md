@@ -11,8 +11,7 @@ I’m a software engineer specializing in building (and occasionally designing) 
 
 - 👨🏻‍💻 I’m currently working on something cool.
 - 🚀 I’m currently learning new tech.
-- 📝 I regulary write articles on my [Blog](https://dev.djamelkorei.me).
-- 📫 How to reach me: djamel.eddine.korei@gmail.com.
+- 📝 I regulary write articles on my [Blog](https://dev.djamelkorei.com).
 
 </br>
 
