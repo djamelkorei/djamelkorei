@@ -4,8 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Hashnode&logoColor=white)](https://dev.djamelkorei.com)
 
 
-I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Hands on of a variety of programming languages, software design, databases and software architecture.
-
+A software engineer with expertise in creating outstanding digital experiences, and hands-on experience in a wide range of programming languages, databases, and software architecture.
 
 **Talking about Personal Stuffs:**
 
@@ -16,6 +15,6 @@ I’m a software engineer specializing in building (and occasionally designing) 
 </br>
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=djamelkorei&show_icons=true&&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamelkorei&show_icons=true&layout=compact&langs_count=8&hide=php,blade,html&theme=radical"/>
+  <img height="150em" src="https://github-stats-kr.vercel.app/api?username=djamelkorei&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact&hide=contribs" />
+  <img height="150em" src="https://github-stats-kr.vercel.app/api/top-langs/?username=djamelkorei&show_icons=true&layout=compact&langs_count=10&theme=radical"/>
 </p>
