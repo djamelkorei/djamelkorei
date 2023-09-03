@@ -16,6 +16,6 @@ I’m a software engineer specializing in building (and occasionally designing) 
 </br>
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=djamel-kr&show_icons=true&&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamel-kr&show_icons=true&layout=compact&langs_count=8&hide=php,blade,html&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=djamelkorei&show_icons=true&&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamelkorei&show_icons=true&layout=compact&langs_count=8&hide=php,blade,html&theme=radical"/>
 </p>
