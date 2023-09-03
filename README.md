@@ -14,7 +14,7 @@ A software engineer with expertise in creating outstanding digital experiences, 
 
 </br>
 
-<p>
-  <img height="150em" src="https://github-stats-kr.vercel.app/api?username=djamelkorei&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact&hide=contribs" />
-  <img height="150em" src="https://github-stats-kr.vercel.app/api/top-langs/?username=djamelkorei&show_icons=true&layout=compact&langs_count=10&theme=radical"/>
-</p>
+<div style="display: flex; gap: .5rem;flex-wrap: wrap">
+  <img height="200em" src="https://github-stats-kr.vercel.app/api?username=djamelkorei&show_icons=true&count_private=true&include_all_commits=true&theme=radical&layout=compact" />
+  <img height="200em" src="https://github-stats-kr.vercel.app/api/top-langs/?username=djamelkorei&show_icons=true&layout=compact&langs_count=10&theme=radical"/>
+</div>
