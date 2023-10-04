@@ -10,6 +10,6 @@ A software engineer with expertise in creating outstanding digital experiences, 
 
 - 👨🏻‍💻 Working on something cool.
 - 🚀 Learning new tech.
-- 📝 Regulary write articles [Blog](https://dev.djamelkorei.com).
+- 📝 Regulary write articles [Blog](https://www.nonestack.com).
 
 
